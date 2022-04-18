@@ -25,6 +25,12 @@ Listed below are the comand(s) required to install the necessary dependencies.
 ## Usage
                         
 Once npm i has been run in the terminal, type npm start to launch the local server, using a program like Insomnia you can view all of it's capabilities.
+
+## Example Videos
+
+https://drive.google.com/file/d/1aeL6tl5MWIKsjONF-p398uERgsebUH73/view
+
+https://drive.google.com/file/d/1IhJfsbweoYdIhLFX2MfNmATSxWkyQ7Gk/view
                                  
 ## Features
                         
